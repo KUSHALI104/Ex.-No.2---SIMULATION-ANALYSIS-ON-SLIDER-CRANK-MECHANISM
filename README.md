@@ -36,18 +36,13 @@
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
-## Output
+![WhatsApp Image 2023-12-29 at 20 33 55_af6bd9c6](https://github.com/KUSHALI104/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150231135/2cf05fc7-0931-4eb2-bcd4-77a74706afce)
+![WhatsApp Image 2023-12-29 at 20 33 55_0da2957d](https://github.com/KUSHALI104/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150231135/1a4956a0-4499-4317-b796-fec2882fc566)
+![WhatsApp Image 2023-12-29 at 20 33 54_6eefb541](https://github.com/KUSHALI104/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150231135/420beec2-c311-432f-b89e-56cc6177b523)
 
 
-### Name:
-### Register Number: 
+### Name:KUSHALI P G
+### Register Number:23012804
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
